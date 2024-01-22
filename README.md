@@ -1,4 +1,4 @@
-This is a combined list of all resources (books, lecture notes, lectures, summaries. etc.) in all the topics in mathematics, physics, and computer science. The edition of the books are not included as it is assumed that the latest edition would be the one being referred to. 
+This is a combined list of all resources (books, lecture notes, lectures, summaries, etc.) in all the topics in mathematics, physics, and computer science. The edition of the books are not included as it is assumed that the latest edition would be the one being referred to. 
 
 # Identification
 **(U)** - Undergraduate
