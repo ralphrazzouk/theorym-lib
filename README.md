@@ -6,7 +6,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 **(B)** - Textbook
 **(L)** - Online Lectures
 
-
+![Mathematics Banner](public/mathematics_banner.png)
 # Mathematics
 ## Abstract Algebra
 - **Abstract Algebra** by *Israel Nathan Herstein*
@@ -156,7 +156,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 
 
 
-
+![Physics Banner](public/physics_banner.png)
 # Physics
 
 ## Astroparticle Physics
@@ -299,6 +299,11 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 - **The Theoretical Minimum** by *George Hrabovsky, Leonard Susskind*
 - **The Emperor's New Mind: Concerning Computers, Minds and The Laws of Physics** by *Roger Penrose*
 
+
+
+
+
+![Computer Science Banner](public/computer_science_banner.png)
 # Computer Science
 
 ## Algorithms
@@ -331,13 +336,18 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 ## Theory of Computation
 
 
+![Engineering Banner](public/engineering_banner.png)
 # Engineering
 
+![Economics Banner](public/economics_banner.png)
 # Economics
 
+![Chemistry Banner](public/chemistry_banner.png)
 # Chemistry
 
+![Biology Banner](public/biology_banner.png)
 # Biology
 
+![Medicine Banner](public/medicine_banner.png)
 # Medicine
 
