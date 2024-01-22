@@ -7,7 +7,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 **(L)** - Online Lectures
 
 ![Mathematics Banner](src/mathematics_banner.png)
-# Mathematics
+# Mathematics (MATH)
 ## Abstract Algebra
 - **Abstract Algebra** by *Israel Nathan Herstein*
 - **Algebra** by *Serge Lang*
@@ -156,8 +156,9 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 
 
 
+
 ![Physics Banner](src/physics_banner.png)
-# Physics
+# Physics (PHYS)
 
 ## Astroparticle Physics
 - 
@@ -304,7 +305,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 
 
 ![Computer Science Banner](src/computer_science_banner.png)
-# Computer Science
+# Computer Science (CS)
 
 ## Algorithms
 ## Artificial Intelligence
@@ -336,18 +337,40 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 ## Theory of Computation
 
 
+
+
+
 ![Engineering Banner](src/engineering_banner.png)
-# Engineering
+# Engineering (ENG)
+
+
+
+
 
 ![Economics Banner](src/economics_banner.png)
-# Economics
+# Economics (ECON)
+
+
+
+
 
 ![Chemistry Banner](src/chemistry_banner.png)
-# Chemistry
+
+# Chemistry (CHEM)
+
+
+
+
 
 ![Biology Banner](src/biology_banner.png)
-# Biology
+
+# Biology (BIO)
+
+
+
+
 
 ![Medicine Banner](src/medicine_banner.png)
-# Medicine
+
+# Medicine (MED)
 
