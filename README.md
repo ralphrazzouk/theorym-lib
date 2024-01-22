@@ -7,8 +7,8 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 - **(L)**: Online Lectures
 
 ---
-![Mathematics Banner](src/mathematics_banner.png)
 # Mathematics (MATH)
+![Mathematics Banner](src/mathematics_banner.png)
 ## Abstract Algebra
 - **Abstract Algebra** by *Israel Nathan Herstein*
 - **Algebra** by *Serge Lang*
