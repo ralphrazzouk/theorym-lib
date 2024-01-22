@@ -7,7 +7,6 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 - **(L)**: Online Lectures
 
 ---
-
 ![Mathematics Banner](src/mathematics_banner.png)
 # Mathematics (MATH)
 ## Abstract Algebra
@@ -155,7 +154,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 - **[Agda Proof Assistant](https://wiki.portal.chalmers.se/agda/Main/HomePage)**
 - 
 
-
+---
 
 
 
@@ -302,7 +301,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 - **The Theoretical Minimum** by *George Hrabovsky, Leonard Susskind*
 - **The Emperor's New Mind: Concerning Computers, Minds and The Laws of Physics** by *Roger Penrose*
 
-
+---
 
 
 
@@ -338,21 +337,21 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 ## Robotics
 ## Theory of Computation
 
-
+---
 
 
 
 ![Engineering Banner](src/engineering_banner.png)
 # Engineering (ENG)
 
-
+---
 
 
 
 ![Economics Banner](src/economics_banner.png)
 # Economics (ECON)
 
-
+---
 
 
 
@@ -360,7 +359,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 
 # Chemistry (CHEM)
 
-
+---
 
 
 
@@ -368,7 +367,7 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 
 # Biology (BIO)
 
-
+---
 
 
 
@@ -376,3 +375,4 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 
 # Medicine (MED)
 
+---
