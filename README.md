@@ -6,6 +6,8 @@ This is a combined list of all resources (books, lecture notes, lectures, summar
 - **(B)**: Textbook
 - **(L)**: Online Lectures
 
+---
+
 ![Mathematics Banner](src/mathematics_banner.png)
 # Mathematics (MATH)
 ## Abstract Algebra
