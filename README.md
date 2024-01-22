@@ -1,10 +1,10 @@
 This is a combined list of all resources (books, lecture notes, lectures, summaries, etc.) in all the topics in mathematics, physics, computer science, engineering, economics, chemistry, biology, and medicine. The edition of the books are not included as it is assumed that the latest edition would be the one being referred to. 
 
 # Identification
-**(U)** - Undergraduate
-**(G)** - Graduate
-**(B)** - Textbook
-**(L)** - Online Lectures
+- **(U)**: Undergraduate
+- **(G)**: Graduate
+- **(B)**: Textbook
+- **(L)**: Online Lectures
 
 ![Mathematics Banner](src/mathematics_banner.png)
 # Mathematics (MATH)
